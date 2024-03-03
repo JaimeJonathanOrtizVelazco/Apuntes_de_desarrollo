@@ -1,11 +1,12 @@
 # Listas
 
-Es una colección ordenada que nos permite guardar y acceder a items de manera secuencial
+Es una colección ordenada que nos permite guardar y acceder a items de manera secuencial. Es decir, a diferencia de los arrays, los elementos de las listas no están ordenados en memoria de manera secuencias, sino en nodos independientes, referenciando el siguiente elemento a consultar.
 
-Puede incluir elementos duplicados
+## Linked Lists
 
-Nos da control completo y visibilidad sobre ordenar elementos
+Son del tipo de estructura de datos usada para almacenar colecciones de información.
+La información esta almacenada en nodos, cada uno de los nodos contiene la variable con la información necesaria y un la referencia al siguiente nodo de la lista.
 
-```java
-System.out.println();
-```
+## Double liked list
+
+Es lo mismo que una linked lists pero contiene una referencia al nodo anterior

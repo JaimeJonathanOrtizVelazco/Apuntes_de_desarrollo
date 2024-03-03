@@ -23,4 +23,8 @@ Los load balancer pueden ser implementados con hardware o con software (HAProxy)
 
 ## [Load Balancer Vs Rever Proxy](Load_Balancer_Reverse_Proxy.md)
 
-## [Load Balancing Algorithms / Algoritmos de Balanceo de Carga](https://)
+## [Load Balancing Algorithms / Algoritmos de Balanceo de Carga](Load_Balancing_Algorithms.md)
+
+## [Layer 7 Load Balancing](Layer_7_Load_Balancer.md)
+
+## [Layer 4 Load Balancing](Layer_4_Load_Balancer.md)
