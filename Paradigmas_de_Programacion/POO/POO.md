@@ -17,19 +17,19 @@ Ocultando la implmentacion del exterior.
 
 Este concepto nos permite heredar a nuevas clases propiedades y methodos desde una clase existente (clase padre).
 
-La herencia nos permite la reutilizacion de codigo y nos permite organizar las clases de manera herarquica.
+La herencia nos permite la reutilización de código y nos permite organizar las clases de manera herarquica.
 
 ### Polymorphism (Polimorfismo)
 
-Este concepto permite a objectos de diferentes clases ser tratadas como una clase padre comun.
+Este concepto permite a objectos de diferentes clases ser tratadas como una clase padre común.
 
 ### Abstraction
 
-Es un concepto que se refiere al proceso de ocultar los detalles de implementacio de un objeto y exponer solamente las caracteristicas esenciales.
+Es un concepto que se refiere al proceso de ocultar los detalles de implementación de un objeto y exponer solamente las características esenciales.
 
 #### Data abstraction
 
-Se refiere a ocultar la representacion inter de la informacion y provee en su lugar una vista simplificada de interfaces bien definidas
+Se refiere a ocultar la representacion interna de la informacion y provee en su lugar una vista simplificada de interfaces bien definidas
 
 #### Behavioral abstraction
 

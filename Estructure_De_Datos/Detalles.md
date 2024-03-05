@@ -17,7 +17,7 @@ Las externas son aquellas que pueden mantener la información de manera persiste
 
 Son aquellas que cuando son creadas se les asigna un tamaño determinado. Por ejemplo:
 
-- Arreglos
+- [Arreglos](Estructuras_Basicas/Arreglos.md)
 - Matrices
 
 ### Dinámicas
@@ -26,9 +26,9 @@ Se llama asi porque durante la ejecución se pueden hacer mas reservas de memori
 
 #### Lineales
 
-- Listas
-- Pilas
-- Colas
+- [Listas](Estructuras_Basicas/Listas.md)
+- [Pilas](Estructuras_Basicas/Pilas.md)
+- [Colas](Estructuras_Basicas/Colas.md)
 
 #### No Lineales
 

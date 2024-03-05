@@ -1,0 +1,6 @@
+# Hash Tables
+
+Son estructuras de datos especializadas en permitir el rápido acceso de la información a base de una llave. Las hash tables trabajan al tener un llave como entrada, después computan el index en donde la información deseada se encuentra. Cabe mencionar que las hash tables son una especie de lists que contienen buckets donde se almacenaran las direcciones de memoria donde podemos encontrar los valores que queremos recuperar. Estos buckets son accedidos a traves del hash (el hash es un calculo matemático que intenta obtener valores numéricos únicos con las propiedades el objeto), donde el HASH (digamos la llave/localización de memoria/ clave en el diccionario) nos va a decir el cual bucket vamos a ir a buscar el valor.
+
+- Los hash codes pueden ser iguales aun y cuando los objetos no lo sean (esto dependerá de los cálculos matemáticos que se saquen para obtener el hash code). Sin embargo, si los objetos son iguales (ya dependerá de como estamos comparando los objetos), entonces, el hash code debe ser el mismo.
+  Cabe mencionar que si el valor del hash ya existe en la tabla pero el objeto es totalmente diferente ( no solo respecto al tipo de objeto, sino a las propiedades también y sus valores).
