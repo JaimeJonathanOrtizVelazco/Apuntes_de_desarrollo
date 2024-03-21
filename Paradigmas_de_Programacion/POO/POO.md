@@ -9,13 +9,13 @@ Es una manera de estructurar el código, basado en diferentes principios:
 
 ### Encapsulation (Encapsulamiento)
 
-Se refiere a la practica de restringir el acceso directo a la informacion interna de un objeto y comportamineto de una interfaz.
+Se refiere a la practica de restringir el acceso directo a la información interna de un objeto y comportamiento de una interfaz.
 
-Ocultando la implmentacion del exterior.
+Ocultando la implementación del exterior.
 
 ### Inheritance (Herencia)
 
-Este concepto nos permite heredar a nuevas clases propiedades y methodos desde una clase existente (clase padre).
+Este concepto nos permite heredar a nuevas clases propiedades y métodos desde una clase existente (clase padre).
 
 La herencia nos permite la reutilización de código y nos permite organizar las clases de manera herarquica.
 
@@ -29,7 +29,7 @@ Es un concepto que se refiere al proceso de ocultar los detalles de implementaci
 
 #### Data abstraction
 
-Se refiere a ocultar la representacion interna de la informacion y provee en su lugar una vista simplificada de interfaces bien definidas
+Se refiere a ocultar la representación interna de la información y provee en su lugar una vista simplificada de interfaces bien definidas
 
 #### Behavioral abstraction
 

@@ -27,4 +27,4 @@ Los almacenes de llave-valor permite un alto rendimiento y comúnmente son usada
 
 El almacén de documentos se centra en documentos XML, JSON, binarios u otros, donde un documento almacena toda la información de un objeto. Los almacenes de documentos proven un API o un lenguaje query para buscar información basado en la estructura interna del documento. Muchos almacenes de datos de tipo llave-valor incluyen funcionalidad que funcionan con valores de metadata, fluctuando entre almacenes de documentos y de llave-valor.
 
-Basado en el tipo de implementación, los documentos están organizados por coleciones, tags, metadata o directorios. Ademas lo documentos pueden ser organizados o agrupados juntos.
+Basado en el tipo de implementación, los documentos están organizados por colecciones, tags, metadata o directorios. Ademas lo documentos pueden ser organizados o agrupados juntos.
